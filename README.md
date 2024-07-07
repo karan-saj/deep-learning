@@ -10,3 +10,7 @@ Link: https://www.coursera.org/learn/neural-networks-deep-learning/home/week/1
 * Link https://www.coursera.org/learn/neural-networks-deep-learning/home/week/2
 * Assignment 1 : Python Basics with Numpy
 * Assignment 2: Logistic Regression with a Neural Network mindset
+
+### Week 3
+* Link https://www.coursera.org/learn/neural-networks-deep-learning/home/week/3
+* Assignment 1: Planar data classification with one hidden layer
